@@ -1,6 +1,8 @@
 ## Background
 Snek Redux was my attempt at [Ludum Dare 67](http://ludumdare.com/compo/2016/05/19/minild-67/) which had the theme of Remixing a classic game, in my case, Snake. All done in [HaxeFlixel](https://haxeflixel.com/).
 
+[Click here to play this game online](https://www.newgrounds.com/portal/view/675598)
+
 ## Features
 
 Snek Redux has 3 levels - the forest, the caves, and the maze. Unlike regular snake, this game is an autoscroller of sorts, and plays more like a roguelike.
